@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQGBnXEypvw9uw/profile-displaybackgroundimage-shrink_200_800/0/1642687786487?e=2147483647&v=beta&t=5Nv1e3ixbRDoQQJql8zTb-qN3m16Ura0SSzrFgZ0jyY" height="100px" width="500px">
+<img src="https://media.licdn.com/dms/image/C4E16AQGBnXEypvw9uw/profile-displaybackgroundimage-shrink_200_800/0/1642687786487?e=2147483647&v=beta&t=5Nv1e3ixbRDoQQJql8zTb-qN3m16Ura0SSzrFgZ0jyY" height="100px" width="500px"  align="center">
 <h1 align="center">Hi 👋, I'm Safaa Charhaby</h1>
 <h3 align="center">A passionate computer science student from Morocco</h3>
 
